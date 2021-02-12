@@ -64,8 +64,16 @@
             "value": "test-property-2-value"
         },
         {
-            "key": "googleApiKey",
-            "value": ""
+            "key": "spring.session.enabled",
+            "value": "true"
+        },
+        {
+            "key": "spring.session.enabled",
+            "value": "true"
+        },
+        {
+            "key": "spring.session.enabled",
+            "value": "true"
         },
         {
             "key": "multicountrysampledataaddon.import.active",
